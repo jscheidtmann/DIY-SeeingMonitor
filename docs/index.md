@@ -16,14 +16,14 @@ What does it take to build a "Real Seeing Monitor"?
 
 There's a lot of hodge-podge and hand-waving associated with [AutoGuiding](https://en.wikipedia.org/wiki/Autoguider) and 
 tracking and monitoring the RMS values during the imaging night: "Good guiding" is by common convention associated with 
-having RMS values on the order of 0.5 arcsec. In contrast other's being able to purchase expensive encoder mounts, do not pay attention to Guiding at all, save for 
-detecting the occasional slip or the tugging of cables. 
+having RMS values on the order of 0.5 arcsec. In contrast others - being able to purchase expensive encoder mounts -  do not pay attention to Guiding at all, save for 
+detecting the occasional slip due to a loose cluthc or the tugging of cables. 
 
 My own measurements showed that, while a very large Periodic Error (on the order of 10s of arcsec), that cannot be guided out completely is associated 
 with blown up stars in subs, the situation is less clear with regard to RMS values <2 arcsec. 
 While there is correlation, the correlation is not crystal clear (R² = 0.3). 
 
-Thus having an independent, inexpensive,  measurement of "Seeing", will help improve astrophotography not only for me, but for the community at large.
+Thus having an independent, inexpensive,  measurement of "Seeing", will help understand and improve astrophotography not only for me, but for the community at large.
 
 ## Literature Overview for Seeing Monitors
 
@@ -72,5 +72,5 @@ Using the respective keyword and seeing monitor, one should be able to find lite
 image motion monitor", Monthly Notices of the Royal Astronomical Society, 2019, 486 (1), pp. 915-925. doi:10.1093/mnras/stz854, 
 [online](https://hal.science/hal-02283284v1) last accessed 2024-12-27
 
-<a id="3">[3]j</a> J. Vernin, C. Munoz-Tunon, "Measuring Astronomical Seeing: The DA/IAC DIMM", Publications of the Astronomical 
+<a id="3">[3]</a> J. Vernin, C. Munoz-Tunon, "Measuring Astronomical Seeing: The DA/IAC DIMM", Publications of the Astronomical 
 Society of the Pacific, 107: 265-272, 1995, [online](https://iopscience.iop.org/article/10.1086/133549/pdf) last accessed 2024-12-27
