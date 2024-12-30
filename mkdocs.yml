@@ -8,8 +8,7 @@ plugins:
   - search
   - panzoom:
       always_show_hint: true 
-      include_selectors:
-        - "img" 
+      images: true
 
 extra_javascript: 
     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
